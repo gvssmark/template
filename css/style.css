@@ -1,0 +1,17 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { 
+  font-family: system-ui, -apple-system, sans-serif; 
+  line-height: 1.6; 
+  background: #f5f7fa;
+  color: #333;
+}
+header { background: #4a86e8; padding: 1rem; }
+nav a { 
+  color: white; 
+  text-decoration: none; 
+  margin-right: 20px; 
+  font-weight: 500;
+}
+nav a:hover { text-decoration: underline; }
+main { padding: 2rem; max-width: 800px; margin: auto; }
+h1 { color: #4a86e8; margin-bottom: 1rem; }
